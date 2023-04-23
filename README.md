@@ -4,8 +4,8 @@ I'm Armin, a software developer based in South Africa. I'm passionate about buil
 
 # 💻 Technical Skills
 
-- Programming languages: Python, C#, C++, Java
-- Tools and technologies: Git
+- Programming languages: Python, C#, C++, Java, Delphi, XAML
+- Tools and technologies: Git, Unity, Unreal, WPF, WinForms
 
 # 🌱 What I'm currently learning
 
