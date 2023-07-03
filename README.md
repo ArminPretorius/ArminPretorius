@@ -9,10 +9,7 @@ I'm Armin, a software developer based in South Africa. I'm passionate about buil
 
 # 🌱 What I'm currently learning
 
-- Advanced Databases
-- DSS (Decision Support Systems)
-- AI (Artificial Intelligence)
-- Computer Networks
+- Quantum Computing
 
 # 👨‍💻 My Projects
 |      Title      |  Technologies  |  Status  |  Version  |
