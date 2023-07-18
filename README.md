@@ -15,6 +15,7 @@ I'm Armin, a software developer based in South Africa. I'm passionate about buil
 - Operating Systems
 - Game Development
 - Game Design
+- 3D Modeling
 
 # 🎓 School Projects
 |      Title      |  Technologies  |  Status  |  Version  |
