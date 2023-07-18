@@ -13,6 +13,8 @@ I'm Armin, a software developer based in South Africa. I'm passionate about buil
 - Decision Support Systems
 - IT Developments
 - Operating Systems
+- Game Development
+- Game Design
 
 # 🎓 School Projects
 |      Title      |  Technologies  |  Status  |  Version  |
