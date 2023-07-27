@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Armin, a software developer based in South Africa. I'm passionate about building tools and applications that help solve real-world problems and make people's lives easier.
+I'm Armin, a South African software developer with a passion for building tools and applications that solve real-world problems and make people's lives easier. Recently, I've also ventured into game development.
 
 # 💻 Technical Skills
 
