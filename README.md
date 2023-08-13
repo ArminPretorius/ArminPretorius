@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi There! 👋
 
 I'm Armin, a South African software developer with a passion for building tools and applications that solve real-world problems and make people's lives easier. Recently, I've also ventured into game development.
 
