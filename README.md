@@ -18,6 +18,7 @@ I'm Armin, a South African software developer with a passion for building tools 
 - 3D Modeling
 
 # 🎓 School Projects
+These are some of the bigger school projects I have worked on.
 |      Title      | Year |  Technologies  |  Status  |  Grade  |
 |-----------------|-----------------|-----------------|-----------------|-----------------|
 |[Encryption Tool](https://github.com/ArminPretorius/EncryptionTool)|2022||[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/EncryptionTool)](https://github.com/ArminPretorius/EncryptionTool)|90%|
@@ -28,10 +29,12 @@ I'm Armin, a South African software developer with a passion for building tools 
 |-----------------|-----------------|-----------------|-----------------|-----------------|
 |Unnamed|PC|[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=000000&labelColor=white&color=222324&link=https://unity.com/)](https://unity.com/)|![In Planning](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square&logoColor=white)|![Unreleased](https://img.shields.io/badge/Version-Unreleased-0077b6?style=flat-square&logoColor=white&labelColor=222324)|
 # 🚀 Side Projects
+These are some side projects that I work on.
 |      Title      |  Technologies  |  Status  |  Version  |
 |-----------------|-----------------|-----------------|-----------------|
 |[DwnTube](https://github.com/ArminPretorius/DwnTube)|[![yt-dlp](https://img.shields.io/badge/-ytdlp-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000&color=222324&link=https://github.com/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) [![Tkinter](https://img.shields.io/badge/-Tkinter-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=4B8BBE&color=222324&link=https://docs.python.org/3/library/tkinter.html)](https://docs.python.org/3/library/tkinter.html) [![cTkinter](https://img.shields.io/badge/-cTkinter-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=4B8BBE&color=222324&link=https://github.com/TomSchimansky/CustomTkinter)](https://github.com/TomSchimansky/CustomTkinter)|[![In Development](https://img.shields.io/badge/-In%20Development-yellow?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/DwnTube)](https://github.com/ArminPretorius/DwnTube)|[![Unreleased](https://img.shields.io/badge/Version-Unreleased-0077b6?style=flat-square&logoColor=white&labelColor=222324)](https://github.com/ArminPretorius/DwnTube)|
 # 🕹️ Learning Game Development
+These are some games I have been working on to learn game development (Some are in an unfinished state).
 |      Title      |  Technologies  |  Status  |
 |-----------------|-----------------|-----------------|
 |[Guess the Number](https://github.com/ArminPretorius/GuessTheNumber)|[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=000000&labelColor=white&color=222324&link=https://unity.com/)](https://unity.com/)|[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/GuessTheNumber)](https://github.com/ArminPretorius/GuessTheNumber)|
