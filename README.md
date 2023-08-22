@@ -4,7 +4,7 @@ I'm Armin, a South African software developer with a passion for building tools 
 
 # 💻 Technical Skills
 
-- Languages: Python, C, C++, C#, Java, Delphi, JavaScript, SQL, XAML, HTML
+- Languages: Python, C, C++, C#, Java, Delphi, JavaScript, SQL, XML, XAML, HTML
 - Tools and technologies: Git, Unity, Unreal, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
 # 🌱 What I'm currently learning
