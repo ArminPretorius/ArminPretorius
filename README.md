@@ -8,7 +8,7 @@ I'm Armin, a South African software developer with a passion for building tools 
 - Tools and technologies: Git, Unity, Unreal, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
 # 🌱 What I'm currently learning
-![Armin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArminPretorius&theme=dark&hide=Ezhil)
+![Armin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArminPretorius&theme=dark&hide=Ezhil&layout=compact)
 
 - Advanced Databases
 - Decision Support Systems
