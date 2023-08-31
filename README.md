@@ -3,7 +3,6 @@
 I'm Armin, a South African software developer with a passion for building tools and applications that solve real-world problems and make people's lives easier. Recently, I've also ventured into game development.
 
 # 💻 Technical Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPretorius&hide=shaderlab,HLSL,TSQL,Mathematica&theme=dark&layout=compact)
 - Languages: Python, C, C++, C#, Java, Delphi, JavaScript, SQL, XML, XAML, HTML
 - Tools and technologies: Git, Unity, Unreal, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
