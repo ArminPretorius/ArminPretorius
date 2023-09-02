@@ -15,6 +15,7 @@ I'm Armin, a South African software developer with a passion for building tools 
 - IT Developments
 - Operating Systems
 - 3D Modeling
+- Web Development
 
 # 🎓 School Projects
 These are some of the bigger school projects I have worked on.
