@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm Armin, a South African software developer with a passion for building tools and applications that solve real-world problems and make people's lives easier. Recently, I've also ventured into game development.
+I'm Armin, a South African software and game developer with a passion for building tools and applications that solve real-world problems and make people's lives easier.
 
 # 💻 Technical Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPretorius&hide=shaderlab,HLSL,TSQL,Mathematica&theme=dark&layout=compact)
