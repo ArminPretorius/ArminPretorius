@@ -26,8 +26,8 @@ Some of the bigger school projects I have worked on.
 |[Tic-Tac-Toe AI](https://github.com/ArminPretorius/Tic-Tac-Toe-AI/)|2023|[![pygame](https://img.shields.io/badge/-pygame-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=4B8BBE&color=222324&link=https://www.pygame.org/news)](https://www.pygame.org/news) [![NetworkX](https://img.shields.io/badge/-NetworkX-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=4B8BBE&color=222324&link=https://networkx.org)](https://networkx.org) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=4B8BBE&color=222324&link=https://matplotlib.org)](https://matplotlib.org)|[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/Tic-Tac-Toe-AI/)](https://github.com/ArminPretorius/Tic-Tac-Toe-AI/)|88%|
 # 🎮 My Games
 Some games that I am working on.
-|      Title      |  Platform  |  Technologies  |  Status  |  Version  |
-|-----------------|-----------------|-----------------|-----------------|-----------------|
+|  None  |
+|-----------------|
 
 # 🚀 Side Projects
 Some side projects that I am working on.
