@@ -7,8 +7,14 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Languages: Python, C, C++, C#, Java, Delphi, JavaScript, SQL, XML, XAML, HTML
 - Tools and technologies: Git, Unity, Unreal, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
-# 🌱 What I'm currently learning
 ![Armin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArminPretorius&theme=dark&hide=Ezhil&layout=compact)
+
+# 💼 What I'm currently working on
+- Architecture / Game Engine Startup w/ [Darian A Glinski](https://github.com/darian-a-glinski) ([Dynamix I3](https://github.com/DynamixI3Corporation))
+- Game Engine For Fun ([SMPLX Engine](https://github.com/ArminPretorius/SMPLX-Engine))
+- Game Development Team (ProjectDragon)
+
+# 🌱 What I'm currently learning
 
 - Advanced Databases
 - Decision Support Systems
@@ -16,6 +22,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Operating Systems
 - 3D Modeling
 - Web Development
+- Game Engine Development
 
 # 🎓 School Projects
 Some of the bigger school projects I have worked on.
