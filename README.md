@@ -12,7 +12,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 # 💼 What I'm currently working on
 - Architecture / Game Engine Startup w/ [Darian A Glinski](https://github.com/darian-a-glinski) ([Dynamix I3](https://github.com/DynamixI3Corporation))
 - Game Engine For Fun ([SMPLX Engine](https://github.com/ArminPretorius/SMPLX-Engine))
-- Game Development Team (ProjectDragon)
+- Game Development Team ([ProjectDragon](https://github.com/ProjectDragon))
 
 # 🌱 What I'm currently learning
 
