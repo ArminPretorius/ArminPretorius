@@ -23,6 +23,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - 3D Modeling
 - Web Development
 - Game Engine Development
+- Music Theory
 
 # 🎓 School Projects
 Some of the bigger school projects I have worked on.
