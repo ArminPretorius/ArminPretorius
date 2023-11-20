@@ -15,10 +15,6 @@ I'm Armin, a South African software and game developer with a passion for buildi
 
 # 🌱 What I'm currently learning
 
-- Advanced Databases
-- Decision Support Systems
-- IT Developments
-- Operating Systems
 - 3D Modeling
 - Web Development
 - Game Engine Development
