@@ -35,8 +35,5 @@ Some games that I am working on.
 |  None  |
 |-----------------|
 
-# 🚀 Side Projects
-Some side projects that I am working on.
-|      Title      |  Technologies  |  Languages  |  Status  |  Version  |
-|-----------------|-----------------|-----------------|-----------------|-----------------|
-|[SMPLX Engine](https://github.com/ArminPretorius/SMPLX-Engine)||C#, C/C++|[![In Development](https://img.shields.io/badge/-In%20Development-yellow?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/SMPLX-Engine)](https://github.com/ArminPretorius/SMPLX-Engine)|[![Unreleased](https://img.shields.io/badge/Version-Unreleased-0077b6?style=flat-square&logoColor=white&labelColor=222324)](https://github.com/ArminPretorius/SMPLX-Engine)|
+# 🚀 My Projects
+[View Projects](https://github.com/ArminPretorius/Index)
