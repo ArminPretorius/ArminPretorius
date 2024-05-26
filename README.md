@@ -10,7 +10,6 @@ I'm Armin, a South African software and game developer with a passion for buildi
 ![Armin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArminPretorius&theme=dark&hide=Ezhil&layout=compact)
 
 # 💼 What I'm currently working on
-- Game Engine For Fun ([SMPLX Engine](https://github.com/ArminPretorius/SMPLX-Engine))
 - Game Development Team ([ProjectDragon](https://github.com/ProjectDragon))
 
 # 🌱 What I'm currently learning
