@@ -28,10 +28,6 @@ Some of the bigger school projects I have worked on.
 |[REST API](https://github.com/ArminPretorius/CMPG323-Project-2-34739572)|2023||C#|[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/CMPG323-Project-2-34739572)](https://github.com/ArminPretorius/CMPG323-Project-2-34739572)|114%|
 |[Web App](https://github.com/ArminPretorius/CMPG323-Project-3-34739572)|2023||C#|[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/CMPG323-Project-3-34739572)](https://github.com/ArminPretorius/CMPG323-Project-3-34739572)|103%|
 |[UIPath RPA](https://github.com/ArminPretorius/CMPG323-Project-4-34739572)|2023|||[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/CMPG323-Project-4-34739572)](https://github.com/ArminPretorius/CMPG323-Project-4-34739572)|110%|
-# 🎮 My Games
-Some games that I am working on.
-|  None  |
-|-----------------|
 
 # 🚀 My Projects
 [View Projects](https://github.com/ArminPretorius/Index)
