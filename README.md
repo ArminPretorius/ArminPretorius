@@ -7,8 +7,6 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Languages: Python, C, C++, C#, Java, Delphi, JavaScript, SQL, XML, XAML, HTML
 - Tools and technologies: Git, Unity, Unreal, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
-![Armin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArminPretorius&theme=dark&hide=Ezhil&layout=compact)
-
 # 💼 What I'm currently working on
 - Game Development Team ([ProjectDragon](https://github.com/ProjectDragon))
 
