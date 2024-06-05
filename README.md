@@ -10,6 +10,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 # 💼 What I'm currently working on
 - Game Development Team ([ProjectDragon](https://github.com/ProjectDragon))
 - Freelance Web Development
+- Web Development Company
 
 # 🌱 What I'm currently learning
 
