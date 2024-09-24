@@ -13,7 +13,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 # 💼 My Current Interests
 - Game Development
 - Artificial Intelligence / Machine Learning
-- Web & App Development
+- Web & App Design / Development
 
 # 🌱 What I'm Currently Learning
 
