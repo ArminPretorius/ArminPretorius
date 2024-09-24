@@ -9,12 +9,12 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Main Tools & Technologies: Git, Unity, Unreal, Bootstrap
 - Other Tools & Technologies: WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
-# 💼 My current interests
+# 💼 My Current Interests
 - Game Development
 - Artificial Intelligence / Machine Learning
 - Web & App Development
 
-# 🌱 What I'm currently learning
+# 🌱 What I'm Currently Learning
 
 -  Advanced Databases
 -  Artificial Intelligence
