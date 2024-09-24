@@ -4,17 +4,21 @@ I'm Armin, a South African software and game developer with a passion for buildi
 
 # 💻 Technical Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPretorius&hide=shaderlab,HLSL,TSQL,Mathematica&theme=dark&layout=compact)
-- Languages: Python, C, C++, C#, Java, Delphi, JavaScript, SQL, XML, XAML, HTML
-- Tools and technologies: Git, Unity, Unreal, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
+- Main Languages: C#, C, C++, Python, SQL, HTML, CSS, Javascript
+- Other Languages: Java, Delphi, XML, XAML
+- Main Tools & Technologies: Git, Unity, Unreal, Bootstrap
+- Other Tools & Technologies: WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 
-# 💼 What I'm currently working on
-- Game Development Team ([ProjectDragon](https://github.com/ProjectDragon))
-- Freelance Web Development
-- Web Development Company
+# 💼 My current interests
+- Game Development
+- Artificial Intelligence / Machine Learning
+- Web & App Development
 
 # 🌱 What I'm currently learning
 
-- Web Development
+-  Advanced Databases
+-  Artificial Intelligence
+-  System Analysis & Design
 
 # 🎓 School Projects
 Some of the bigger school projects I have worked on.
