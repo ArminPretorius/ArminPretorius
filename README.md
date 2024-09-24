@@ -8,6 +8,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Other Languages: Java, Delphi, XML, XAML
 - Main Tools & Technologies: Git, Unity, Unreal, Bootstrap
 - Other Tools & Technologies: WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
+- Design Tools: Figma, Blender, Photoshop, Illustrator, Premiere
 
 # 💼 My Current Interests
 - Game Development
