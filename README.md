@@ -10,6 +10,9 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Other Tools & Technologies: WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 - Design Tools: Figma, Blender, Photoshop, Illustrator, Premiere
 
+# 🧩 LeetCode
+![Leetcode](https://leetcard.jacoblin.cool/ArminPretorius?ext=heatmap)
+
 # 💼 My Current Interests
 - Game Development
 - Artificial Intelligence / Machine Learning
