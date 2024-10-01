@@ -3,7 +3,7 @@
 I'm Armin, a South African software and game developer with a passion for building tools and applications that solve real-world problems and make people's lives easier.
 
 # 💻 Technical Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPretorius&hide=shaderlab,HLSL,TSQL,Mathematica&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPretorius&hide=shaderlab,HLSL,TSQL,Mathematica&theme=dark&layout=compact)](https://github.com/ArminPretorius/)
 - Main Languages: C#, C, C++, Python, SQL, HTML, CSS, Javascript
 - Other Languages: Java, Delphi, XML, XAML
 - Main Tools & Technologies: Git, Unity, Unreal, Bootstrap
@@ -11,7 +11,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 - Design Tools: Figma, Blender, Photoshop, Illustrator, Premiere
 
 # 🧩 LeetCode
-![Leetcode](https://leetcard.jacoblin.cool/ArminPretorius?ext=heatmap)
+[![Leetcode](https://leetcard.jacoblin.cool/ArminPretorius?ext=heatmap)](https://leetcode.com/u/ArminPretorius/)
 
 # 💼 My Current Interests
 - Game Development
