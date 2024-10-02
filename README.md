@@ -12,6 +12,7 @@ I'm Armin, a South African software and game developer with a passion for buildi
 
 # 🧩 LeetCode
 [![Leetcode](https://leetcard.jacoblin.cool/ArminPretorius?ext=heatmap)](https://leetcode.com/u/ArminPretorius/)
+- Check out my [LeetCode Solutions](https://github.com/ArminPretorius/LeetCode)
 
 # 💼 My Current Interests
 - Game Development
