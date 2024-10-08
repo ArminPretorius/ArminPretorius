@@ -4,8 +4,8 @@ I'm Armin, a South African software and game developer with a passion for buildi
 
 # 💻 Technical Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPretorius&hide=shaderlab,HLSL,TSQL,Mathematica&theme=dark&layout=compact)](https://github.com/ArminPretorius/)
-- Main Languages: C#, C, C++, Python, SQL, HTML, CSS, Javascript
-- Other Languages: Java, Delphi, XML, XAML
+- Main Languages: C#, C/C++, Python, Java, SQL
+- Other Languages: Java, Delphi, XML, XAML, HTML, CSS, Javascript
 - Main Tools & Technologies: Git, Unity, Unreal, Bootstrap
 - Other Tools & Technologies: WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 - Design Tools: Figma, Blender, Photoshop, Illustrator, Premiere
