@@ -3,10 +3,10 @@
 I'm Armin, a South African software and game developer with a passion for building tools and applications that solve real-world problems and make people's lives easier.
 
 # 💻 Technical Skills
-- Main Languages: C#, C/C++, Python, Java, SQL
-- Other Languages: Java, Delphi, XML, XAML, HTML, CSS, Javascript
-- Main Tools & Technologies: Git, Unity, Unreal, Bootstrap
-- Other Tools & Technologies: WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
+- Main Languages: C#, C/C++
+- Other Languages: Java, Delphi, XML, XAML, HTML, CSS, Javascript, Python, SQL
+- Main Tools & Technologies: Git, Unity
+- Other Tools & Technologies: Unreal, Bootstrap, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
 - Design Tools: Figma, Blender, Photoshop, Illustrator, Premiere
 
 # 🧩 LeetCode
