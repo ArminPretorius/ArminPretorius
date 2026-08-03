@@ -1,24 +1,15 @@
 # Hi There! 👋
 
-I'm Armin, a South African software and game developer with a passion for building tools and applications that solve real-world problems and make people's lives easier.
-
 # 💻 Technical Skills
-- Main Languages: C#, C/C++
-- Other Languages: Java, Delphi, XML, XAML, HTML, CSS, Javascript, Python, SQL
-- Main Tools & Technologies: Git, Unity
-- Other Tools & Technologies: Unreal, Bootstrap, WinForms, WPF, UWP, Quantum Computing (Qiskit), Web API
-- Design Tools: Figma, Blender, Photoshop, Illustrator, Premiere
+- Main Languages: Python, C#, C/C++
+- Other Languages: Java, Delphi, XML, XAML, HTML, CSS, Javascript, SQL
 
 # 🧩 LeetCode
 [![Leetcode](https://leetcard.jacoblin.cool/ArminPretorius?ext=heatmap)](https://leetcode.com/u/ArminPretorius/)
-- Check out my [LeetCode Solutions](https://github.com/ArminPretorius/LeetCode)
-
-# 💼 My Current Interests
-- Game Development
 
 # 🌱 What I'm Currently Learning
 
-- Game Development
+- Advancing Coding Skills
 
 # 🎓 School Projects
 Some of the bigger school projects I have worked on.
@@ -33,4 +24,4 @@ Some of the bigger school projects I have worked on.
 |[UIPath RPA](https://github.com/ArminPretorius/CMPG323-Project-4-34739572)|2023|||[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ArminPretorius/CMPG323-Project-4-34739572)](https://github.com/ArminPretorius/CMPG323-Project-4-34739572)|110%|
 
 # 🚀 My Projects
-[View Projects](https://github.com/ArminPretorius/Index)
+(Being Updated)
